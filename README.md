@@ -21,8 +21,3 @@ The RMSE is commonly used measure of the differences between predicted values pr
 Submission Format
 For every building (i.e. row) in the test dataset (test.csv), submission files contains two columns: id and site_eui.id should be an integer andsite_eui should be a real value.
 For each row, these two values should be separated by a comma.
-
-For example:
-id,site_eui
-75757,1.3
-75758,2.8
